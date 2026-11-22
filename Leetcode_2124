@@ -1,0 +1,6 @@
+Leetcode 2124:
+Solution:
+(Python):
+class Solution:
+    def checkString(self, s):
+        return "ba" not in s
